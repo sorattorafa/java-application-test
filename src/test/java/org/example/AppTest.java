@@ -23,6 +23,6 @@ public class AppTest
     public void Test2()
     {
         Random random = new Random();
-        assertTrue( random.nextDouble() > 0.3 );
+        assertTrue( random.nextDouble() > 0.9 );
     }
 }
